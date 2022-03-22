@@ -4,7 +4,7 @@
 - 💞️J'aimerai siplment partager mon travail pour ceux que ça interesse.
 - 📫Vous pouvez me joindre à l'adresse claude.barbe83@gmail.com
 - Pour tester cet editeur, cliquer sur ce lien http://claude.barbe3.free.fr/Editeur/editeur.php
-- Pour le télécharger , http://claude.barbe3.free.fr/stockagefree/Editeur.zip, et faites le tourner sur votre localhost equipé du php ou tout autre hébergeur.
+- Pour le télécharger , http://claude.barbe3.free.fr/stockagefree/Editeur.7z, et faites le tourner sur votre localhost equipé du php ou tout autre hébergeur.
 
 Tutoriel de cet éditeur
 Cet éditeur fonctionne par blocs typés que l'ont peut créer, déplacer , supprimer  convertir grâce à des menus contextuels.
